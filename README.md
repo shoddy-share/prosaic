@@ -8,7 +8,7 @@ no middleman, no server in the middle: your keys, your machine, your words.
 Bring a key from OpenAI, Anthropic, Google, OpenRouter, Amazon Bedrock, Groq,
 Mistral, Ollama — or any OpenAI-compatible endpoint — and start writing.
 
-## Screenshots
+## Preview
 
 ![Prosaic Preview](images/prosaicgif.gif)
 
