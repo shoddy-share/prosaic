@@ -1,0 +1,10 @@
+node_modules/
+dist/
+dist2/
+dist_locked/
+*.log
+*.bat
+icon-1024.png
+smoke.js
+test-wipe.js
+build-installer.js
