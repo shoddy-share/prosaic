@@ -1,0 +1,37 @@
+{
+  "name": "prosaic",
+  "productName": "Prosaic",
+  "version": "1.0.0",
+  "description": "Prosaic — a local AI writing playground",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win nsis"
+  },
+  "devDependencies": {
+    "electron": "^39.0.0",
+    "electron-builder": "^25.0.0"
+  },
+  "build": {
+    "appId": "com.prosaic.app",
+    "productName": "Prosaic",
+    "files": [
+      "main.js",
+      "preload.js",
+      "app/**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "artifactName": "Prosaic-Setup-${version}.${ext}"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true
+    },
+    "icon": "build/icon.ico",
+    "directories": {
+      "output": "C:/Users/trapf/Downloads/prosaic-dist"
+    }
+  }
+}
