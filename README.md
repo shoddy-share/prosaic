@@ -6,7 +6,7 @@ Prosaic talks directly to AI providers using **your own API keys**. No subscript
 no middleman, no server in the middle: your keys, your machine, your words.
 
 Bring a key from OpenAI, Anthropic, Google, OpenRouter, Amazon Bedrock, Groq,
-Mistral, Ollama — or any OpenAI-compatible endpoint — and start writing.
+Mistral — or any OpenAI-compatible endpoint — and start writing.
 
 ## Preview
 
