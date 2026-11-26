@@ -10,6 +10,8 @@ Mistral, Ollama — or any OpenAI-compatible endpoint — and start writing.
 
 ## Screenshots
 
+![Prosaic Preview](images/prosaicgif.gif)
+
 ![Home with sticky notes](images/home.png)
 
 ![Chat with thinking blocks](images/chat.png)
