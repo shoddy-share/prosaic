@@ -38,7 +38,7 @@ Then:
 ## Features
 
 - Multi-provider support: OpenAI, Anthropic, Google, OpenRouter, Amazon Bedrock,
-  Groq, Mistral, Ollama, and any OpenAI-compatible endpoint
+  Groq, Mistral, and any OpenAI-compatible endpoint
 - Thinking / reasoning blocks on models that support them
 - Per-model temperature and sampling controls
 - Streaming responses
